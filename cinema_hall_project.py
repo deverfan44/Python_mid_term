@@ -52,8 +52,8 @@ class Hall(Star_Cinema):
 
 
 hall = Hall(5,5,1)
-hall.entry_show( 111, 'Rang de Basanti', '11:00 AM')
-hall.entry_show( 333, 'Dangal', '2:00 PM')
+hall.entry_show( 111, 'Rang de Basanti', '12:00 AM')
+hall.entry_show( 333, 'Dangal', '06:00 PM')
 
 run = True
 
